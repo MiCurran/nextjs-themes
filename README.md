@@ -9,4 +9,10 @@ Nextjs templates and themes for jumpstarting projects
     
  ## Blog Themes   
  - [Sidebar Blog](https://github.com/stackbit-themes/fjord-nextjs)
-<img src="./images/blog.png" alt="blog img"></img>
+<img src="./images/blog.png" alt="blog img"></img>  
+  
+    
+
+ ## Other Themes  
+ - [Podcast Theme](https://github.com/stackbit-themes/podcaster-nextjs)  
+ <img src="./images/podcast.png" alt="theme img"></img>
